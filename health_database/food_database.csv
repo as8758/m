@@ -1,0 +1,31 @@
+name,category,calories,fat,carbs,protein,sodium
+bread,Grains,80.0,1.0,15.0,3.0,170.0
+apple,Fruits,95.0,0.3,25.0,0.5,2.0
+banana,Fruits,105.0,0.4,27.0,1.3,1.0
+chicken breast,Protein,165.0,3.6,0.0,31.0,74.0
+rice,Grains,130.0,0.3,28.0,2.7,1.0
+gum,Snacks,5.0,0.0,2.0,0.0,0.0
+salmon,Protein,208.0,13.0,0.0,22.0,59.0
+broccoli,Vegetables,55.0,0.6,11.0,4.3,33.0
+milk,Dairy,103.0,2.4,12.0,8.0,107.0
+yogurt,Dairy,59.0,0.4,3.6,10.0,36.0
+potato,Vegetables,161.0,0.2,37.0,4.3,17.0
+carrot,Vegetables,41.0,0.2,10.0,0.9,69.0
+orange,Fruits,62.0,0.2,15.0,1.2,0.0
+almonds,Nuts,164.0,14.2,6.1,6.0,0.0
+peanut butter,Nuts,188.0,16.0,6.0,8.0,136.0
+oatmeal,Grains,68.0,1.4,12.0,2.5,49.0
+pasta,Grains,131.0,0.7,25.0,5.0,1.0
+beef,Protein,250.0,17.0,0.0,26.0,65.0
+eggs,Protein,78.0,5.0,0.6,6.0,62.0
+cheese,Dairy,113.0,9.3,0.4,7.0,174.0
+strawberries,Fruits,32.0,0.3,7.7,0.7,1.0
+spinach,Vegetables,23.0,0.4,3.6,2.9,79.0
+avocado,Fruits,160.0,14.7,8.5,2.0,7.0
+tuna,Protein,120.0,1.0,0.0,26.0,50.0
+quinoa,Grains,120.0,1.9,21.0,4.4,7.0
+blueberries,Fruits,57.0,0.3,14.0,0.7,1.0
+cucumber,Vegetables,16.0,0.2,3.6,0.7,2.0
+walnuts,Nuts,185.0,18.5,3.9,4.3,1.0
+dark chocolate,Snacks,170.0,12.0,13.0,2.0,7.0
+popcorn,Snacks,31.0,0.4,6.2,1.0,1.0
